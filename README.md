@@ -3,6 +3,7 @@
 ## 1️⃣ Starter Plan – "Keep My Website Safe"
 
 💰 **$65/month**  
+
 📅 **Best for:** Local businesses that just need their website secure, updated, and running smoothly.
 
 ### What’s Included?
@@ -19,6 +20,7 @@
 ## 2️⃣ Growth Plan – "Stay Updated & Optimized"
 
 💰 **$120/month**  
+
 📅 **Best for:** Businesses that need some content updates & SEO maintenance.
 
 ### What’s Included?
@@ -37,6 +39,7 @@
 ## 3️⃣ Scale Plan – "Full Support & Local Growth"
 
 💰 **$250/month**  
+
 📅 **Best for:** Businesses that want ongoing growth, better SEO, and more frequent updates.
 
 ### What’s Included?
