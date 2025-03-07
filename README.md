@@ -4,8 +4,6 @@
 
 💰 **$65/month**  
 
-📅 **Best for:** Local businesses that just need their website secure, updated, and running smoothly.
-
 ### What’s Included?
 - ✅ **WordPress Core & Plugin Updates** (Monthly)  
 - ✅ **Website Backups** (Monthly Offsite Storage)  
@@ -20,8 +18,6 @@
 ## 2️⃣ Growth Plan – "Stay Updated & Optimized"
 
 💰 **$120/month**  
-
-📅 **Best for:** Businesses that need some content updates & SEO maintenance.
 
 ### What’s Included?
 - ✅ **Everything in Starter Plan, PLUS:**  
@@ -39,8 +35,6 @@
 ## 3️⃣ Scale Plan – "Full Support & Local Growth"
 
 💰 **$250/month**  
-
-📅 **Best for:** Businesses that want ongoing growth, better SEO, and more frequent updates.
 
 ### What’s Included?
 - ✅ **Everything in Growth Plan, PLUS:**  
