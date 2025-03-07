@@ -1,5 +1,7 @@
 # 🌟 WordPress Maintenance & Growth Plans
 
+## Your website is FREE!!! We only charge for maintenance.
+
 ## 1️⃣ Starter Plan – "Keep My Website Safe"
 
 💰 **$65/month**  
