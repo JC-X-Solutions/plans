@@ -1,13 +1,14 @@
 # 🌟 Website Care & Growth Plans  
 **Secure. Maintain. Optimize. Scale.**  
 *Professional website management to keep your business running and growing without the tech headaches.*  
+*Annual plans are available upon request and include discounted rates.*
 
 ---
 
 ## **📌 Our Plans & Pricing**  
 
 ### **1️⃣ Essential Plan – "Keep My Website Safe"**  
-💰 **$75/month** *(Best for solopreneurs, freelancers, and personal websites that need basic maintenance.)*  
+💰 **$75/month** *(Best for solopreneurs, freelancers, and small websites that need basic maintenance.)*  
 
 ✅ **WordPress Core & Plugin Updates** (Monthly)  
 ✅ **Secure Offsite Backups** (Monthly)  
